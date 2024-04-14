@@ -5,13 +5,13 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .container{
     border: 10px solid black;
     width: 800px;
     margin: auto;
-    height: 100vh;
+    height: 770px;
     background: url(./bg1.png)center no-repeat;
     background-size: cover;
     position: relative;
